@@ -93,7 +93,7 @@
         {
             "name": "APTV",
             "type": 0,
-            "url": "./lib/iptv.m3u",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/iptv.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -291,32 +291,32 @@
         }
     ],
 
- "sites":[{"key":"天天","name":"宝全提示：搜索以后请用宝全专用4K观看4K源","type":3,      "api": "./lib/drpy2.min.js",
+ "sites":[{"key":"天天","name":"宝全提示：搜索以后请用宝全专用4K观看4K源","type":3,      "api": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./lib/暗黑4k奇迹.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/暗黑4k奇迹.js"
     },
 {
       "key": "新腾极4k",
       "name": "宝全🌞腾讯4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./lib/暗黑4k奇迹.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/暗黑4k奇迹.js"
     },
     {
       "key": "芒果弹幕",
       "name": "宝全🌞芒果4K",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/暗黑4k奇迹mg.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/wlyzh88/222/main/宝全/lib/暗黑4k奇迹mg.js"
     },
 {
       "key": "腾讯视频",
